@@ -37,6 +37,7 @@ pip install configparser==4.0.2
 pip install imageio==2.6.1
 pip install pyfits
 pip install PyQt5
+pip install pyqtgraph
 
 cd ~/source/RMS
 cp  ~/opencv4_install.sh .
